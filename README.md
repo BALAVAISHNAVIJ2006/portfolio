@@ -3,10 +3,6 @@
 
 A modern, responsive, and visually stunning **personal portfolio website** built with **HTML, CSS, and JavaScript**. Showcases skills, projects, achievements, and contact information with smooth animations, dark mode, and mobile-first design.
 
-👩‍💻 [Live Demo](https://yourdomain.com) | 📄 [Download Resume](Resume.pdf)
-
----
-
 ## 🚀 Features
 
 - **Fully Responsive** – Works seamlessly on mobile, tablet, and desktop
